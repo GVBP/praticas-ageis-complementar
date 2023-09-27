@@ -1,3 +1,5 @@
+Alunos: Beatriz Aguiar e Guilherme Pereira.
+
 # Questões Discursivas Prova 1 - Complementar
 
 1.1) Maria está trabalhando em um projeto de desenvolvimento de software e decide adotar a abordagem do Test Driven Development (TDD) para melhorar a qualidade do código e a colaboração entre os membros da equipe. Ela começa a implementar uma nova funcionalidade seguindo os princípios do TDD. Assinale a alternativa que apresenta corretamente o processo que Maria deve seguir.
