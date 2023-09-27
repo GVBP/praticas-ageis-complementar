@@ -88,3 +88,5 @@ Critérios de aceitação:
 - O relatório deve apresentar um resumo geral das vendas totais do mês, incluindo receita total e margem de lucro total. 
 
 - Deve haver a opção de selecionar o mês e o ano para o qual o relatório será gerado.
+
+As atividades 2.abc e 3.ab estão publicados em arquivos raiz desse projeto.
